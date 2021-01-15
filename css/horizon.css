@@ -1,0 +1,39 @@
+.yTheme{
+	background-color: #0e0875;
+	color: #fff;
+	margin: 40px 80px;
+	padding: 15px 10px;
+	text-align: center;
+}
+h6{
+	color: #d98107;
+
+}
+.yello{
+	color: yellow;
+}
+.position{
+	text-align: center;
+}
+.navbar-collapse{
+	border-color: #e7e7e7;
+    margin-top: 20px;
+    border-color: #e7e7e7;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+}
+.img-responsive{
+	display: block;
+    width: 250px;
+    height: 200px;
+}
+.thumbnail>img{
+	display: block;
+    max-width: 250px;
+    height: 200px;
+}
+.img-res{
+	padding-bottom: 25px;
+}
+
